@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Nitin Jadhale
+#  👋 Hi, I’m Nitin Jadhale
 - 👀 I’m interested in Data science and Machine Learning
 - 🌱 I’m currently learning Artificial inetligence
 - 💞️ I’m looking to collaborate on Data science opportunities
